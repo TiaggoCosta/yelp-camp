@@ -1,27 +1,25 @@
 {
-  "name": "yelpcamp",
+  "name": "yelp-camp",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Yelp-like app for campgrounds",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yashfalke77/YelpCamp-Campgrounds.git"
+    "url": "https://github.com/TiaggoCosta/yelp-camp"
   },
   "keywords": [
     "#yelpCamp",
-    "#yashfalke77",
     "#campgrounds"
   ],
-  "author": "Yash Falke",
-  "license": "MIT",
+  "author": "Tiago Costa",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yashfalke77/YelpCamp-Campgrounds/issues"
+    "url": "https://github.com/TiaggoCosta/yelp-camp/issues"
   },
-  "homepage": "https://github.com/yashfalke77/YelpCamp-Campgrounds#readme",
+  "homepage": "https://github.com/TiaggoCosta/yelp-camp#readme",
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.13.2",
     "cloudinary": "^1.27.0",
